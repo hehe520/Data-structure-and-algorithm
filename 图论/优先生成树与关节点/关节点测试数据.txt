@@ -1,0 +1,65 @@
+﻿图1:
+1
+5
+ABCDE
+A B
+B C
+A C
+C E
+C D
+D E
+0 0
+
+
+图2:
+1
+13
+ABCDEFGHJIKLM
+A B
+A C
+A F
+A L
+B C
+B D
+B G
+B H
+B M
+D E
+G H
+G I
+G K
+H K
+L M
+L J
+J M
+0 0
+
+
+图3:
+1
+6
+ABCDEF
+A D
+D E
+E F
+F C
+C A
+A B
+D B
+E B
+F B
+C B
+0 0
+
+
+图4:
+1
+6
+ABCDEF
+A B
+B C
+C F
+B E
+D E
+F E
+0 0

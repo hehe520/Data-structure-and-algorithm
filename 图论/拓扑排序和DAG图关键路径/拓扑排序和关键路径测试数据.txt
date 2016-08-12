@@ -1,0 +1,86 @@
+﻿图1
+0
+6
+ABCDEF
+A B
+A D
+A C
+E C
+E F
+C F
+D F
+D B
+0 0
+
+
+图2
+0
+6
+ABCDEL
+A B
+A C
+C D
+B D
+D E
+E B
+B L
+L E
+0 0
+
+
+图3
+0
+12
+ABCDEFGHJIKL
+A C
+A D
+A E
+A H
+B E
+B F
+B G
+C I
+D H
+F E
+F H
+G J
+H I
+H K
+H L
+I K
+J L
+0 0
+
+
+图4
+1
+9
+ABCDEFGHL
+A B 6
+A C 4
+A D 5
+B E 1
+C E 1
+D H 2
+E F 9
+E G 7
+H G 4
+F L 2
+G L 4
+0 0 0
+
+
+图5
+1
+6
+ABCDEF
+A B 3
+A D 2
+B F 3
+B C 2
+D C 4
+D E 3
+C E 2
+F E 1
+0 0 0
+

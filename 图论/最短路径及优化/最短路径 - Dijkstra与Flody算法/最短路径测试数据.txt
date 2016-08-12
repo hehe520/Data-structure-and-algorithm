@@ -1,0 +1,32 @@
+﻿图1
+1
+5
+ABCDE
+A C 1
+C D 1
+A D 3
+A B 9
+D B 3
+D E 1
+B E 1
+0 0 0
+
+
+图2
+0
+9
+ABCDEFGHI
+A B 34
+A F 3
+F G 20
+B G 23
+F D 5
+D E 6
+E G 15
+B C 45
+G C 12
+G H 11
+E I 5
+I H 8
+H C 7
+0 0 0

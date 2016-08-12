@@ -1,0 +1,129 @@
+Í¼1£º
+0
+6
+ABCDEF
+A B
+A D
+B C
+C A
+C F
+D C
+D F
+E D
+F A
+F E
+0 0
+
+
+Í¼2£º
+1
+9
+ABCDEFGHJ
+J C
+C B
+B A
+A H
+H G
+G F
+E D
+H E
+A D
+A J
+H B
+B G
+G C
+C F
+E J
+0 0
+
+
+Í¼3£º
+2
+8
+ABCDEFGH
+A B 5
+A D 7
+B G 11
+B C 4
+C A 8
+C H 88
+C F 9
+D C 5
+D F 6
+E D 5
+F E 1
+F A 3
+G C 22
+G H 33
+H D 10
+0 0 0
+
+
+Í¼4£º
+3
+7
+ABCDEFG
+A B 5
+A G 20
+A F 16
+F G 3
+G B 8
+F E 7
+E G 6
+G C 9
+B C 10
+E C 4
+G D 1
+C D 22
+0 0 0
+
+
+Í¼5
+0
+6
+ABCDEF
+A B
+F E
+E B
+A D
+0 0
+
+
+Í¼6
+1
+7
+ABCDEFG
+A E
+F B
+E D
+D C
+C G
+B G
+0 0
+
+
+Í¼7
+2
+8
+ABCDEFGH
+H A 8
+D F 6
+H E 4
+G H 10
+G C 12
+C B 9
+0 0 0
+
+
+Í¼8
+3
+8
+ABCDEFGH
+A H 8
+B C 9
+D F 6
+H G 10
+E H 4
+G C 12
+0 0 0
+
